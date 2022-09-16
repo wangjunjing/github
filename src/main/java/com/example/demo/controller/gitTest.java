@@ -17,5 +17,6 @@ public class gitTest {
         log.info("你好git4");
         log.info("你好master4");
 
+        log.info("你好push5");
     }
 }
