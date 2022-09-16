@@ -12,5 +12,7 @@ public class gitTest {
     @Test
     public void git(){
         log.info("你好git");
+        log.info("你好git2");
+
     }
 }
